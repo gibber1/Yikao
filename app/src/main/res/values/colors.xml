@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00d0b3</color>
+    <color name="colorPrimaryDark">#00D1B4</color>
+    <color name="colorAccent">#00D1B4</color>
+    <color name="bg_app">#F1F1F1</color>
+
+    <color name="tab_unselect">#c9c9c9</color>
+    <color name="tab_heise">#000000</color>
+    <color name="bg_btn">#dadada</color>
+    <color name="secondary_text">#727272</color>
+    <color name="tv_title">#00BBA0</color>
+</resources>
